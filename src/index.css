@@ -1,0 +1,169 @@
+
+body{
+  height: 100vh;
+  width: 100%;
+}
+.HomeFlex{
+  display: flex;
+
+}
+.SumMain{
+  background-color: rgb(3, 184, 250);
+  color:  white;
+  font-family: 'Courier New', Courier, monospace;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.portfolio{
+  width: 600px;
+}
+.headphonebackGround{
+  height: 350px;
+  width: 350px;
+  object-fit: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  background-color: orange;
+  margin-left: 50px;
+}
+.protName{
+  font-family: cursive;
+  font-weight: 700
+}
+.pname{
+  width: 10px;
+  padding: 0px 5px 0px 5px ;
+  background-color: orange;
+  border-radius: 50%;
+}
+
+.ProtFoliotwo{
+  background-color: white;
+  display: flex;
+}
+.foneimg1{
+  display: flex;
+}
+.foneimg img{
+  height: 200px;
+  width: 200px;
+  border-radius: 40px;
+  margin-left: 5px;
+
+}
+.soneimg img{
+  margin-top: 50px;
+  height: 300px;
+  width: 400px;
+  border-radius: 80px;
+}
+.fcomponent{
+  width: 500px;
+  margin-top: 100px;
+  margin-left: 50px;
+}
+.scomponent{
+  width: 300px;
+
+  margin-top: 100px;
+
+}
+.ght{
+  background-color: aqua;
+}
+
+.hcomponent{
+  width: 300px;
+  height: 100vh;
+  background-color: orange;
+  overflow: hidden;
+
+ 
+}
+.hcomponent img{
+  height: 90vh;
+  margin-top: 30px;
+  margin-left: 10px;
+  transform: translateX(-80px);
+}
+.imgonecontainer img{
+  height: 200px;
+  width: 200px;
+
+}
+.imgonecontainer{
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  top: 14%;
+  left: 50%;
+}
+.imgonecontainer1{
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  top: 14%;
+  left: 75%;
+}
+.imgonecontainer1 img{
+  height: 200px;
+  width: 200px;
+}
+.lrotName{
+  position: absolute;
+  margin-left: 560px;
+  margin-top: 180px;
+  color: white;
+  font-size: 50px;
+  font-weight: 900;
+
+}
+.Protthree{
+    background-color: rgb(97, 203, 245);
+    display: flex;
+}
+.hcomponent1 {
+  width: 300px;
+  height: 100vh;
+  background-color: orange;
+}
+.hcomponent1 img{
+  transform: translateX(25%);
+  height: 80vh;
+  width: 350px;
+  margin-top: 80px;
+  margin-left: 50px;
+  object-fit: cover;
+}
+.lrotName1{
+  position: absolute;
+  margin-left: 420px;
+  margin-top: 110px;
+  color: white;
+  font-size: 50px;
+  font-weight: 900;
+}
+.fcon img{
+  height: 200px;
+  width: 200px;
+  transform: translate(300px,220px);
+  margin-top: 7px;
+
+}
+.scon img {
+  height: 200px;
+  width: 200px;
+  transform: translate(120px,220px);
+  margin-top: 7px;
+}
+.hcomponent2 img{
+  transform: translateX(25%);
+  height: 80vh;
+  width: 700px;
+  margin-top: 80px;
+  margin-left: 50px;
+}

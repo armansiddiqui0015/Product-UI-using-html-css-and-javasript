@@ -1,2 +1,8 @@
-# Product-UI-using-html-css-and-javasript
-Like we mentioned earlier, HTML creates and structures the website's content, CSS adds style and formatting to these structures, and then JavaScript turns those stylized components into something that a user can interact with. Say you want to build a website where users can fill out a form for a contest.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
